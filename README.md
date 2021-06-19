@@ -12,4 +12,8 @@ PCAT projemizde yaptığımız gibi ""EDIT"" sayfasını da yine ""ADD"" sayfas�
 
 Proje tamamlandıktan sonra PCAT ve SmartEdu projelerinde olduğu gibi, içerikleri kendi GitHUB hesaplarınızda bulundurabilir ve HEROKU ortamına yükleyebilirsiniz.
 
+Gerekli linkler:
+
+https://startbootstrap.com/theme/agency
+
 Agency Proje --> https://app.patika.dev/egitimler/nodejs-ile-backend-patikasi
